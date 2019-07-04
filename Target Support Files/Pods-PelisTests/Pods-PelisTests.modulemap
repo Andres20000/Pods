@@ -1,0 +1,6 @@
+framework module Pods_PelisTests {
+  umbrella header "Pods-PelisTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
