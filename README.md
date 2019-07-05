@@ -3,7 +3,8 @@
 Intrucciones.
 
 
-Estos archivos es necesario para porder compilar el proyecto Pelis: 
+Estos archivos es necesario para porder compilar el proyecto Pelis https://github.com/Andres20000/Pelis:
+
 
 
 1. Despues de descargar, renombrar la carpeta Pods-master por Pods
