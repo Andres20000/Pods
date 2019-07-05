@@ -3,7 +3,7 @@
 Intrucciones.
 
 
-Estos archivos es necesario para porder compilar el proyecto Pelis https://github.com/Andres20000/Pelis:
+Estos archivos son necesarios para porder compilar el proyecto Pelis https://github.com/Andres20000/Pelis:
 
 
 
